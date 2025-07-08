@@ -552,3 +552,16 @@ body.dark-mode .portfolio .overlay {
 }
 
 
+.skills-section.dark-mode {
+  background: #18191A !important;
+}
+.skills-section.dark-mode .skill-card {
+  background: #23272F !important;
+}
+.skills-section.dark-mode h2,
+.skills-section.dark-mode h5 {
+  color: #fff !important;
+}
+.skills-section.dark-mode p {
+  color: #bbb !important;
+}
